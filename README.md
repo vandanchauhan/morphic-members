@@ -3,7 +3,7 @@
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd morphic-members
 npm install
 ```
 
